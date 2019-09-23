@@ -1,5 +1,5 @@
 # PrimeNumberGenerator
-Input the number of primes you want, and my program can spit out the first 10 million primes in less than 15 minutes.
+Input which prime number you want (ex. 5th, 10th, 100th... even the 30 millionth!), and my program can spit out the first 10 million primes in less than 15 minutes.
 #include <cmath>
 #include <iostream>
 using namespace std;
